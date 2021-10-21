@@ -30,3 +30,14 @@ div.top {
 h1.time {
     text-align: center;
 }
+
+div#crypto-top {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+div#crypto-bottom {
+    display: flex;
+    flex-direction: column;
+}
